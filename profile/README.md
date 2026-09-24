@@ -2,9 +2,9 @@
 
 # Kian Academy
 
-### AI, Research & Engineering Infrastructure for Kian Nano Karno
+### Research, Intelligence & Engineering Infrastructure for Kian Nano Karno
 
-**Kian Academy** is the technical and research organization within the **Kian Nano Karno** ecosystem, focused on building rigorous AI, scientific-computing, engineering, and research infrastructure.
+**Kian Academy** is the technical and research organization within the **Kian Nano Karno** ecosystem. It develops the scientific, computational, AI, and engineering infrastructure used to support research, technology development, and translational R&D.
 
 </div>
 
@@ -12,38 +12,52 @@
 
 ## Mission
 
-Kian Academy develops practical infrastructure at the intersection of:
+Kian Academy connects **scientific evidence, engineering, AI, computation, and technology intelligence** into reproducible workflows that can support both research and industrial deployment.
+
+### Core domains
 
 - **AI systems & multi-agent orchestration**
-- **Scientific and industrial research**
+- **Scientific research automation & evidence synthesis**
 - **Nanotechnology & advanced materials**
 - **Drug delivery & biomedical engineering**
-- **Bioinformatics & NGS**
-- **Neurotechnology**
-- **Petroleum, energy & industrial chemistry**
+- **Bioinformatics, genomics & NGS**
+- **Protein engineering & computational biology**
+- **Neurotechnology & brain-computer interfaces**
+- **Petroleum, energy & industrial process engineering**
 - **Advanced instrumentation & computational engineering**
-- **Technology intelligence, IP & translational R&D**
+- **Technology intelligence, patents & translational R&D**
 
-Our emphasis is on **evidence-driven research, reproducible engineering, traceable decisions, and deployment-oriented technology development**.
+## Kian Nano Karno AI OS
 
-## AI Operating System
+Kian Academy is developing the **Kian Nano Karno AI OS**, a governed multi-project operating architecture for coordinating research, engineering, evidence, knowledge, execution, verification, and organizational learning.
 
-The organization is developing the **Kian Nano Karno AI OS**: a multi-project, multi-agent operating architecture designed to coordinate research, engineering, knowledge, evidence, execution, assurance, and organizational learning under explicit human governance.
-
-The architecture is built around:
+The approved architecture emphasizes:
 
 - Executive orchestration
-- Project and workflow governance
-- Problem and decision intelligence
-- Knowledge and evidence management
-- Methods and domain intelligence
-- Dynamic capability and agent ecosystems
-- Controlled execution and adaptation
-- Assurance, verification, reality checks, and learning
+- Multi-project and workflow governance
+- Capability-first discovery and dynamic team composition
+- Knowledge, evidence, and provenance management
+- Method and dependency-aware planning
+- Contradiction detection and verification escalation
+- Resource feasibility and cost-aware execution
+- Adaptive execution and organizational learning
+- Explicit human authorization for consequential actions
 
-Human authority remains the governing layer for consequential external, strategic, legal, financial, and high-risk actions.
+The private implementation is maintained in:
 
-## Engineering Principles
+**Kian-Academy/kian-nano-karno-ai-os**
+
+## Research Agent
+
+The public **Kian Nano Karno Research Agent** provides a capability and architecture layer for evidence-grounded research across literature, patents, technology intelligence, biomedical research, industrial R&D, process engineering, and quantitative research.
+
+Repository:
+
+**https://github.com/mehdi-abedini/kian-nano**
+
+The public/private boundary is intentional: confidential R&D, unpublished experimental data, proprietary formulations, customer information, patent-sensitive strategy, credentials, and restricted datasets remain outside public repositories.
+
+## Engineering & Research Principles
 
 **Evidence before assertion.**  
 **Problem before agent.**  
@@ -51,27 +65,29 @@ Human authority remains the governing layer for consequential external, strategi
 **Verification before completion.**  
 **Reversibility before irreversible action.**  
 **Parallelism only where dependencies permit it.**  
-**Documentation and auditability are part of execution, not an afterthought.**
+**Documentation and auditability are part of execution.**
 
-## Repository Ecosystem
+Scientific outputs distinguish observed evidence, derived analysis, model output, hypothesis, and human-reviewed decision.
 
-Repositories under this organization are intended to support research infrastructure, AI systems, scientific software, engineering tools, technical intelligence, and related experimental or production workflows.
+## Repository Governance
 
-Public repositories should contain sufficient documentation for reproducibility and responsible reuse. Private repositories may contain confidential R&D, pre-publication work, proprietary methods, or other restricted material.
+Repositories in this organization may support experimental, research, or production-oriented workflows.
+
+Public repositories should provide sufficient documentation for reproducibility and responsible reuse. Private repositories may contain confidential R&D and proprietary implementation details.
+
+Security, provenance, licensing, versioning, validation, and applicability are treated as first-class requirements when adopting external tools, agents, datasets, or services.
 
 ## Relationship to Kian Nano Karno
 
-Kian Academy operates as the technical/research organization within the **Kian Nano Karno** ecosystem.
-
 **Kian Nano Karno**  
-Applied research • Nanotechnology • Biomedical engineering • Energy • Industrial R&D
+Applied research · Nanotechnology · Biomedical Engineering · Energy · Industrial R&D
 
-Website: https://nanokarno.ir
+Website: https://nanokarno.ir/
 
 ---
 
 <div align="center">
 
-**Kian Academy — Research, Intelligence, Engineering**
+**Kian Academy — Research · Intelligence · Engineering**
 
 </div>
