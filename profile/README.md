@@ -13,7 +13,7 @@ Kian Academy develops the **Kian Nano Karno AI OS**, whose system identity is **
 - **Khwarizmi** — computation, algorithms, and orchestration
 - **Biruni** — observation, measurement, and evidence
 - **Avicenna** — knowledge synthesis and reasoning
-- **Razi** — experimentation, validation, and falsification
+- **Razi** — experimentation, validation, and empirical testing
 - **Khayyam** — mathematical modeling, time, and uncertainty
 - **Tusi** — systems integration and scientific coordination
 
