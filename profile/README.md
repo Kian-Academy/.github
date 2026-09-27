@@ -36,6 +36,16 @@ Architecture Contract v1.0 remains the governing technical contract. The naming 
 - **Advanced instrumentation & computational engineering**
 - **Technology intelligence, patents & translational R&D**
 
+## Rehabilitation Technology
+
+**BionicPath** is the Android control and research application for Kian Nano Karno's elbow-joint rehabilitation technology.
+
+Its current software baseline includes Bluetooth Classic/HC-05 communication, device command and feedback handling, patient calibration, rehabilitation programs, training sessions, local data persistence, progress analysis, and research data export.
+
+Repository: https://github.com/Kian-Academy/BionicPath
+
+The repository is intentionally **private** because the implementation is part of an active hardware/software R&D program. Public-facing descriptions can document the research scope and validated evidence without exposing proprietary implementation details, credentials, patient data, or patent-sensitive information.
+
 ## Research Agent
 
 The public **Kian Nano Karno Research Agent** provides a capability and architecture layer for evidence-grounded research across literature, patents, technology intelligence, biomedical research, industrial R&D, process engineering, and quantitative research.
